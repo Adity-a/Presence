@@ -10,12 +10,6 @@ The Presence Android App is a mobile application designed to facilitate attendan
 - **Employer Powers**: Provides employers with special privileges to manage attendance records, view attendance analytics, and monitor employee presence.
 - **User Authentication**: Ensures secure user authentication to access attendance marking and employer features.
 
-## Screenshots
-
-![Screenshot 1](/Images_Presense-1.0/05_Account_Verification.png)
-![Screenshot 2](/Images_Presense-1.0/12_Show_Attendance.png)
-![Screenshot 3](/Images_Presense-1.0/15_Add_Location.png)
-
 ## Installation
 
 1. Clone the repository:
